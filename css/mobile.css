@@ -1,0 +1,41 @@
+
+#wrapper{width:320px;position:absolute;top:0px;left:0;margin-left:0px;
+        overflow:hidden;}
+
+#top-colours{height:20px;margin:0px 0 10px;}
+#logo{width:320px;background-image:url(../img/logo-mobile.png);
+        height:37px;margin-bottom:10px;}
+
+#tagline{font-size:16px;line-height:20px;padding:10px 3px 15px;}
+
+#services{margin-bottom:22px;}
+    #services li{width:94%;padding:0 3%;}
+        li.center{margin:0px;}
+
+#portfolio{}
+    #portfolio li{width:33%;padding:5px 0;}
+    #portfolio li img{width:90%;}
+    #logos-top, #logos-bottom{height:60px;overflow:hidden;}
+        #logo-aands{padding-top:15px !important;height:45px !important;}
+        #logo-bd{padding-top:15px !important;height:55px !important;}
+        #logo-consy{padding-top:10px !important;height:70px !important;}
+        #logo-za{padding-top:15px !important;height:55px !important;}
+    
+    #portfolio-desc {height:240px;}
+    
+    .logo-desc img{height:auto;width:100px;}
+    .logo-desc .desc{left:120px; padding-right:5px;}
+    
+#ft{line-height:14px;height:auto;padding:15px 0 25px 5px;
+        font-size:12px;}
+    #contact-list li{display:block;}
+    #social-list{position:absolute;top:10px;right:10px;width:40px;}
+        #social-list li a{height:24px;width:24px;margin-left:10px;}
+            /*#social-tw a{background-image:url(../img/social/100/twitter.png);}*/
+            /*#social-fb a{background-image:url(../img/social/100/facebook.png);}*/
+
+p{font-size:12px;}
+h2{font-size:15px;}
+
+/*#fancybox-wrap #fancybox-close{background-position: -70px 0 !important;*/
+/*        height:80px;width:80px;top:-50px;right:-20px;}*/

@@ -1,0 +1,111 @@
+
+html, body{background-color:#fff;margin:0;padding:0;color:#292928;
+        font-family:'Cantarell', helvetica, arial, sans-serif;}
+
+#wrapper{width:956px;position:absolute;top:0px;left:50%;margin-left:-478px;}
+    #hd{margin-bottom:2px;border-bottom:2px solid #292928;text-align:center;}
+        #top-colours{height:30px;margin:0px 0 40px;}
+            #top-colours a {text-transform:lowercase;color:#fff;}
+        #logo{display:inline-block;height:88px;width:460px;
+                background-position:center;margin-bottom:20px;
+                background-image:url(../img/logo-flat.png);
+                background-repeat:no-repeat;}
+
+        #tagline{font-size:42px;padding:20px 20px 30px 20px;
+                border-top:2px solid #292928;text-align:left;
+                font-family:'Droid Serif', serif;line-height:43px;
+                text-align:center;}
+
+    #body{border-top:1px dotted #515454;border-bottom:1px dotted #515454;
+            margin-bottom:2px;}
+
+        #services{border-bottom:0px dotted #515454;margin-bottom:2px;}
+            #services li{display:block;width:307px;float:left;}
+            li.center{margin:0 15px;}
+
+        div.hr{border-top:2px solid #292928;}
+
+        #portfolio{border-top:0px dotted #515454;margin:35px 0 30px;}
+            #portfolio ul{display:block;}
+            #portfolio li{display:table-cell;float:left;width:307px;
+                    text-align:center;padding:0;vertical-align:middle;}
+                #portfolio li img{cursor:pointer;height:auto;width:auto;}
+                #logos-bottom{margin-top:10px;}
+                /*
+            #logo-consy{padding-top:25px !important;height:95px !important;}
+                */
+            #logo-tj{padding-top:5px !important;}
+            #logo-bd{padding-top:10px !important;}
+            #logo-za{padding-top:20px !important;height:40px !important;}
+
+            #portfolio-desc{display:none;height:230px;position:relative;
+                    border-top:1px solid #292928;border-bottom:1px solid #292928;}
+                .desc-selector{height:20px;width:100%;position:absolute;left:0;
+                        overflow:hidden;}
+                    .desc-selector img{position:absolute;left:-20px;}
+                #desc-selector-top{top:0;}
+                    #desc-selector-top img{top:0;}
+                #desc-selector-bottom{bottom:0;}
+                    #desc-selector-bottom img{bottom:0;}
+
+                .logo-desc{height:100%;position:relative;display:none;}
+                    .logo-desc img{position:absolute;top:20px;left:10px;
+                            border:1px solid #515454;}
+                    .logo-desc .desc{position:absolute;top:20px;left:300px;
+                            padding-right:20px;}
+                        .desc h2{margin:0 0 5px;}
+
+    #ft{color:#292928;text-align:left;margin-bottom:0px;
+            border-top:2px solid #292928;height:50px;position:relative;
+            line-height:40px;vertical-align:middle;}
+        #ft img{vertical-align:middle;}
+
+        #ft ul{margin:0;padding:0;display:block;}
+            #ft li{display:inline;margin:0;}
+
+        #contact-list{float:left;width:800px;}
+            li.title{font-weight:bold;}
+            /*
+            #matt-info{color:#DC3522;}
+            #aron-info{color:#3ea846;}
+            */
+            #email {padding-right:10px;}
+            #ft .person-info {padding-right:10px;}
+                #ft .person-info ul{display:inline;}
+                #ft .person-info li{display:inline;}
+                #ft .person-info img{margin-top:-5px;}
+
+        #bottom-colours{height:10px;position:absolute;bottom:0px;left:0;}
+
+
+.colours{width:100%;}
+    .colours div{width:33.33%;height:100%;float:left;}
+    .colours-1{background-color:#DC3522;}
+    .colours-2{background-color:#00bb0d;}
+    .colours-3{background-color:#0788c8;}
+    .colours-4{background-color:#282829;}
+        .colours div a{color:#000;text-decoration:none;text-transform:uppercase;
+                vertical-align:middle;line-height:30px;}
+
+.green{color:#3ea846;}
+.pink{color:#DC3522;}
+.blue{color:#0788c8;}
+.yellow{color:#00bb0d;}
+
+h1, h2, h3, h4, h5, h6{color:#000;
+        font-family:'Droid Serif', Georgia, serif;}
+
+h2{margin:20px 0 5px;font-weight:normal;}
+p{margin:0 0 10px;font-size:14px;}
+
+ul{margin:0;padding:0;}
+
+a{color:#0788c8;}
+a.nunderline{text-decoration:none;}
+
+a img{border:0;}
+
+
+
+
+
